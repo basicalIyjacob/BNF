@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="frostyfreeze.png">
+<SubTexture name="frostyfreeze idle dance0000" x="0" y="0" width="1300" height="1524" frameX="-252" frameY="-308" frameWidth="1792" frameHeight="1792" />
+<SubTexture name="frostyfreeze idle dance0001" x="1300" y="0" width="1300" height="1468" frameX="-252" frameY="-364" frameWidth="1792" frameHeight="1792" />
+<SubTexture name="frostyfreeze idle dance0002" x="0" y="1524" width="1216" height="1440" frameX="-252" frameY="-392" frameWidth="1792" frameHeight="1792" />
+<SubTexture name="frostyfreeze idle dance0003" x="1216" y="1524" width="1272" height="1356" frameX="-252" frameY="-476" frameWidth="1792" frameHeight="1792" />
+</TextureAtlas>

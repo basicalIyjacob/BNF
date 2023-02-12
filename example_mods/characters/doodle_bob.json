@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-100,
+				35
+			],
+			"indices": [],
+			"fps": 8,
+			"anim": "idle",
+			"loop": false,
+			"name": "doodleidle"
+		},
+		{
+			"offsets": [
+				-100,
+				33
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "doodledown"
+		},
+		{
+			"offsets": [
+				-100,
+				37
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singUP",
+			"loop": false,
+			"name": "doodleup"
+		},
+		{
+			"offsets": [
+				-98,
+				35
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "doodleleft"
+		},
+		{
+			"offsets": [
+				-102,
+				35
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "doodleright"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/doodle_bob",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		10,
+		-30
+	],
+	"sing_duration": 4,
+	"scale": 1.3
+}

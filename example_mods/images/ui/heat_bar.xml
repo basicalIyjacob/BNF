@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="heat_bar.png">
+<SubTexture name="heat_bar warm0000" x="0" y="0" width="56" height="334" frameX="-2" frameY="-3" frameWidth="62" frameHeight="337" />
+<SubTexture name="heat_bar cold0000" x="143" y="0" width="53" height="331" frameX="-3" frameY="-3" frameWidth="62" frameHeight="337" />
+<SubTexture name="heat_bar freezing0000" x="56" y="0" width="87" height="332" frameX="-2" frameY="-3" frameWidth="90" frameHeight="337" />
+<SubTexture name="heat_bar frostbite0000" x="196" y="0" width="103" height="330" frameX="-9" frameY="-3" frameWidth="115" frameHeight="337" />
+</TextureAtlas>

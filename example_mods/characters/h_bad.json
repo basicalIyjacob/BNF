@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "h_bad idleHBAD"
+		},
+		{
+			"offsets": [
+				65,
+				9
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "h_bad leftHBAD"
+		},
+		{
+			"offsets": [
+				-68,
+				-7
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "h_bad rightHBAD"
+		},
+		{
+			"offsets": [
+				-29,
+				27
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "h_bad upHBAD"
+		},
+		{
+			"offsets": [
+				200,
+				-70
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "h_bad downHBAD"
+		},
+		{
+			"offsets": [
+				-60,
+				41
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "h_bad maidHBAD"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/h_bad",
+	"position": [
+		0,
+		300
+	],
+	"healthicon": "h_bad",
+	"flip_x": false,
+	"healthbar_colors": [
+		16,
+		140,
+		52
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

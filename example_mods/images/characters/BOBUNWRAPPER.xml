@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BOBUNWRAPPER.png">
+<SubTexture name="BOBUNWRAPPER bobuw_idle0000" x="0" y="0" width="219" height="269" frameX="-15" frameY="-21" frameWidth="250" frameHeight="250" />
+<SubTexture name="BOBUNWRAPPER bobuw_idle0001" x="219" y="0" width="219" height="267" frameX="-15" frameY="-23" frameWidth="250" frameHeight="250" />
+<SubTexture name="BOBUNWRAPPER bobuw_idle0002" x="438" y="0" width="219" height="265" frameX="-15" frameY="-25" frameWidth="250" frameHeight="250" />
+<SubTexture name="BOBUNWRAPPER bobuw_left0000" x="0" y="269" width="255" height="268" frameX="-21" frameY="-22" frameWidth="250" frameHeight="250" />
+<SubTexture name="BOBUNWRAPPER bobuw_left0001" x="255" y="269" width="255" height="267" frameX="-20" frameY="-23" frameWidth="250" frameHeight="250" />
+<SubTexture name="BOBUNWRAPPER bobuw_right0000" x="510" y="269" width="226" height="267" frameX="-49" frameY="-23" frameWidth="250" frameHeight="250" />
+<SubTexture name="BOBUNWRAPPER bobuw_right0001" x="0" y="537" width="227" height="266" frameX="-49" frameY="-24" frameWidth="250" frameHeight="250" />
+<SubTexture name="BOBUNWRAPPER bobuw_up0000" x="227" y="537" width="205" height="288" frameX="-43" frameY="-2" frameWidth="250" frameHeight="250" />
+<SubTexture name="BOBUNWRAPPER bobuw_up0001" x="432" y="537" width="205" height="289" frameX="-43" frameY="-1" frameWidth="250" frameHeight="250" />
+</TextureAtlas>

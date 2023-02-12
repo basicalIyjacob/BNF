@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="h_bad.png">
+<SubTexture name="h_bad idleHBAD0000" x="967" y="352" width="213" height="244" frameX="-20" frameY="-22" frameWidth="202" frameHeight="254" />
+<SubTexture name="h_bad idleHBAD0001" x="686" y="419" width="213" height="232" frameX="-20" frameY="-35" frameWidth="202" frameHeight="254" />
+<SubTexture name="h_bad idleHBAD0002" x="660" y="798" width="213" height="217" frameX="-20" frameY="-50" frameWidth="202" frameHeight="254" />
+<SubTexture name="h_bad downHBAD0000" x="372" y="798" width="288" height="220" frameX="-21" frameY="-10" frameWidth="280" frameHeight="196" />
+<SubTexture name="h_bad downHBAD0001" x="873" y="798" width="288" height="204" frameX="-21" frameY="-27" frameWidth="280" frameHeight="196" />
+<SubTexture name="h_bad leftHBAD0000" x="702" y="0" width="265" height="379" frameX="-14" frameY="-19" frameWidth="260" frameHeight="366" />
+<SubTexture name="h_bad leftHBAD0001" x="0" y="419" width="276" height="379" frameX="-3" frameY="-19" frameWidth="260" frameHeight="366" />
+<SubTexture name="h_bad rightHBAD0000" x="967" y="0" width="366" height="352" frameX="-20" frameY="-26" frameWidth="352" frameHeight="353" />
+<SubTexture name="h_bad rightHBAD0001" x="0" y="798" width="372" height="352" frameX="-20" frameY="-26" frameWidth="352" frameHeight="353" />
+<SubTexture name="h_bad upHBAD0000" x="351" y="0" width="351" height="408" frameX="-8" frameY="-15" frameWidth="328" frameHeight="391" />
+<SubTexture name="h_bad upHBAD0001" x="0" y="0" width="351" height="419" frameX="-8" frameY="-4" frameWidth="328" frameHeight="391" />
+<SubTexture name="h_bad maidHBAD0000" x="276" y="419" width="410" height="360" frameX="0" frameY="0" frameWidth="370" frameHeight="320" />
+<SubTexture name="h_bad maidHBAD0001" x="276" y="419" width="410" height="360" frameX="0" frameY="0" frameWidth="370" frameHeight="320" />
+</TextureAtlas>

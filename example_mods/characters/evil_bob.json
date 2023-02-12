@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-75,
+				10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "evil_idle"
+		},
+		{
+			"offsets": [
+				-75,
+				10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "evil_down"
+		},
+		{
+			"offsets": [
+				-75,
+				10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "evil_up"
+		},
+		{
+			"offsets": [
+				-75,
+				10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "evil_right"
+		},
+		{
+			"offsets": [
+				-75,
+				10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "evil_left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/evil_bob",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "evil_bob",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		210,
+		80
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

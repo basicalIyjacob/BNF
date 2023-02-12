@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="unwrapPPL.png">
+<SubTexture name="unwrapPPL bounce0000" x="0" y="0" width="1180" height="106" frameX="-235" frameY="-332" frameWidth="1980" frameHeight="1270" />
+<SubTexture name="unwrapPPL bounce0001" x="0" y="106" width="1180" height="104" frameX="-235" frameY="-334" frameWidth="1980" frameHeight="1270" />
+<SubTexture name="unwrapPPL bounce0002" x="0" y="314" width="1180" height="101" frameX="-235" frameY="-337" frameWidth="1980" frameHeight="1270" />
+<SubTexture name="unwrapPPL bounce0003" x="0" y="514" width="1180" height="96" frameX="-235" frameY="-342" frameWidth="1980" frameHeight="1270" />
+<SubTexture name="unwrapPPL bounce0004" x="0" y="415" width="1180" height="99" frameX="-235" frameY="-339" frameWidth="1980" frameHeight="1270" />
+<SubTexture name="unwrapPPL bounce0005" x="0" y="210" width="1180" height="104" frameX="-235" frameY="-334" frameWidth="1980" frameHeight="1270" />
+</TextureAtlas>
